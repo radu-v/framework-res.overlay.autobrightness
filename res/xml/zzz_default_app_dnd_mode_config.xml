@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zenapp version="1">
+    <allow alarm="true" calls="true" events="true" messages="false" reminders="true" swipeFingerprint="true" swipeNaviBar="true" />
+    <packageList>
+        <package />
+    </packageList>
+</zenapp>
